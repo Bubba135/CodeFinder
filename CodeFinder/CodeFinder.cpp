@@ -16,7 +16,7 @@ int main()
 	// Display Title of program to user 
 	cout << "Keyword II" << endl;
 
-	// Hold the recruit's name in a var, and address them by it throughout the simulation.
+	// Hold the recruit's name in a var, and address them by it throughout the simulation. 
 	string player;
 
 	// Ask the recruit to login using thier name
